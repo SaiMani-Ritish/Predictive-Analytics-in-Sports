@@ -1,7 +1,7 @@
-# Predictive-Analytics-in-Sports
+# Predictive Analytics in Sports
 
 ## Project Overview
-Cricket isn't just a game—it's a data-rich domain of strategy and performance. Inspired by personal enthusiasm for IPL and guided by practical constraints, this project applies deep learning to analyze and predict match outcomes using structured match metadata. The focus is on creating an efficient pipeline that extracts meaningful insights while remaining computationally feasible.
+Cricket isn't just a game, it's a data-rich domain of strategy and performance. Inspired by personal enthusiasm for IPL and guided by practical constraints, this project applies deep learning to analyze and predict match outcomes using structured match metadata. The focus is on creating an efficient pipeline that extracts meaningful insights while remaining computationally feasible.
 
 ## Key Features
 - Structured dataset including teams, toss decisions, venues, and results
@@ -20,8 +20,7 @@ Cricket isn't just a game—it's a data-rich domain of strategy and performance.
 - **Jupyter Notebook / Google Colab**
 
 ## Dataset
-Sourced from [Kaggle IPL Dataset](https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons) and validated with [IPL T20 Official Website](https://www.iplt20.com/). Contains match-level metadata across multiple seasons including:
-
+Sourced from [Kaggle IPL Dataset](https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons) and validated with [IPL T20 Official Website](https://www.iplt20.com/). Contains match-level metadata across multiple seasons, including:
 - Team configurations and scores
 - Toss outcomes and venue details
 - Player of the match and win margins
