@@ -17,7 +17,7 @@ Cricket isn't just a game, it's a data-rich domain of strategy and performance. 
 - **Scikit-learn**
 - **Pandas**
 - **Matplotlib / Seaborn**
-- **Jupyter Notebook / Google Colab**
+- **Jupyter Notebook**
 
 ## Dataset
 Sourced from [Kaggle IPL Dataset](https://www.kaggle.com/datasets/rajsengo/indian-premier-league-ipl-all-seasons) and validated with [IPL T20 Official Website](https://www.iplt20.com/). Contains match-level metadata across multiple seasons, including:
